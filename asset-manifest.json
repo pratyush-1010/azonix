@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/azonix/static/css/main.026565d8.css",
+    "main.js": "/azonix/static/js/main.6afaa9c0.js",
+    "static/js/787.9eac3680.chunk.js": "/azonix/static/js/787.9eac3680.chunk.js",
+    "static/media/bicycle-jump.jpg": "/azonix/static/media/bicycle-jump.863a3590b7cfbce90240.jpg",
+    "static/media/bg-img.jpg": "/azonix/static/media/bg-img.d71136f76d2ece37bee8.jpg",
+    "static/media/clothes.jpg": "/azonix/static/media/clothes.68684652dc802d6bb7b6.jpg",
+    "static/media/helmet.jpg": "/azonix/static/media/helmet.0820462097c5b80ba3a7.jpg",
+    "static/media/logo.svg": "/azonix/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/azonix/index.html",
+    "main.026565d8.css.map": "/azonix/static/css/main.026565d8.css.map",
+    "main.6afaa9c0.js.map": "/azonix/static/js/main.6afaa9c0.js.map",
+    "787.9eac3680.chunk.js.map": "/azonix/static/js/787.9eac3680.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.026565d8.css",
+    "static/js/main.6afaa9c0.js"
+  ]
+}
