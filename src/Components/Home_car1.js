@@ -7,7 +7,7 @@ const Home_car1=()=> {
       <Carousel.Item style={{backgroundColor:"black"}}>
         <img
           className="d-block w-100"
-          src="./img/home_car_1.jpg"
+          src={'./img/Home_car_1.jpg'}
           alt=""
           style={{height:"80vh",backgroundColor:"black"}}
         />
@@ -23,7 +23,7 @@ const Home_car1=()=> {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="./img/home_car_2.jpg"
+          src="./img/Home_car_2.jpg"
           alt="Second slide"
           style={{height:"80vh"}}
 
@@ -41,7 +41,7 @@ const Home_car1=()=> {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="./img/home_car_3.jpg"
+          src="./img/Home_car_3.jpg"
           alt="Third slide"
           style={{height:"80vh"}}
 
