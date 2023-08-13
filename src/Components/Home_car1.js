@@ -7,7 +7,7 @@ const Home_car1=()=> {
       <Carousel.Item style={{backgroundColor:"black"}}>
         <img
           className="d-block w-100"
-          src={'./img/Home_car_1.jpg'}
+          src={'./img/home_car_1.jpg'}
           alt=""
           style={{height:"80vh",backgroundColor:"black"}}
         />
